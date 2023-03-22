@@ -11,7 +11,7 @@
     "dist"
   ],
   "repository": {
-    "url": "https://github.com/bruceharrison1984/imagekit-react-hook"
+    "url": "https://github.com/biztrology/imagekit-react-hook"
   },
   "author": "Bruce Harrison",
   "license": "Apache-2.0",
@@ -60,6 +60,6 @@
     "react": ">16.0.0"
   },
   "dependencies": {
-    "imagekit-javascript": "1.5.2"
+    "imagekit-javascript": "github:biztrology/imagekit-javascript"
   }
 }
